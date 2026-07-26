@@ -203,6 +203,8 @@ header {
 }
 
 .visual-card {
+  margin-bottom: -50px;
+  margin-top: 40px;
   width: 100%;
   max-width: 320px;
   aspect-ratio: 1/1;
